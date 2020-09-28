@@ -1,8 +1,6 @@
-# Animated Pixel Art
+# License
 
-A repo for my pixel art which will show up at various places 👀.
-
-## Usage
+## Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 Non-commercial re-use and adaptation is allowed when you credit me as follows:
 
